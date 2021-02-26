@@ -18,7 +18,7 @@ public class Factorial66225 {
        int contador = 1,operacion = 1;
         
                 
-        while (contador<15){
+        while (contador<6){
             System.out.println(""+contador);
            contador=contador+1;
             operacion=operacion*contador;
